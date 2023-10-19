@@ -1,0 +1,29 @@
+body{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+}
+nav > a{
+    padding-left: 1%;
+}
+a > img{
+    width: 70%;
+}
+nav > span{
+    color: black;
+    font-size: 150%;
+    font-weight: bolder;
+    margin: 1%;
+}
+div > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+h5{
+    color: white;
+    font-size: 250%;
+    font-weight: bold;
+}
